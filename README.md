@@ -44,7 +44,7 @@ Full-stack developer who enjoys building apps that don’t crash when you use th
 ## Let’s talk
 
 - **GitHub**: [@ShriVansh919](https://github.com/ShriVansh919)
-- **Email**: [vansh@shrivansh919.dev](mailto:vansh@shrivansh919.dev)
+- **Email**: [vanshyadav919@gmail.com](mailto:vanshyadav919@gmail.com)
 
 > “I like my code like I like my coffee: strong, simple, and not full of bugs.”  
 > — Probably me, after my third cup
