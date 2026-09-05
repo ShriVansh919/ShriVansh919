@@ -1,50 +1,85 @@
-# Hi, I'm Shri Vansh 👋
+<div align="center">
 
-Full-stack developer who enjoys building apps that don’t crash when you use them.
+# Hi, I'm Shri Vansh
 
-## About me
-- 💻 I write Flutter apps that actually work offline (yes, really)
-- ⚛️ React + TypeScript fanboy who still respects plain JavaScript
-- 🛠️ Backend? I’ll spin up an Express server faster than you can say “dependency hell”
-- 🧪 I test things — not because I enjoy it, but because I hate 3 a.m. bug hunts
-- 📚 Currently learning: advanced Flutter architecture, system design, and how to stop over-engineering side projects
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&pause=1500&color=00FF00&center=true&width=420&lines=Full-Stack+Developer;Flutter+%7C+React+%7C+TypeScript+%7C+Node.js;Linux+enthusiast+%7C+CachyOS+%7C+Hyprland;Building+clean+apps%2C+one+commit+at+a+time" alt="Typing SVG" />
 
-## Tech I use (and occasionally abuse)
+</div>
 
-| Category | Tools |
-|----------|-------|
-| **Mobile** | Flutter • Dart • Provider • SharedPreferences |
-| **Web** | React • TypeScript • Vite • Tailwind CSS • Bootstrap |
-| **Server** | Node.js • Express • SQLite • Firebase |
-| **Quality** | GitHub Actions • Playwright • Vitest • ESLint |
-| **Data** | JSON • REST • Open-Meteo • Firebase Firestore |
+---
 
-## Projects I’m actually proud of
+### 🧑‍💻 About
 
-| Project | What it does | Stack |
-|---------|--------------|-------|
-| 🌾 **Farmer-Marketplace** | Offline-first marketplace for farmers and buyers — cart, orders, dark mode, bundled JSON + images | Flutter • Provider • SharedPreferences |
-| 🌤️ **SkyCast** | Fancy weather dashboard with glassmorphism, 7‑day forecast, and a test suite that passes | React • TypeScript • Tailwind • TanStack Query • Playwright |
-| 💼 **JobPortal** | Job board with favorites, Firebase persistence, and a responsive UI that doesn’t look like 2008 | React • Vite • Firebase • Bootstrap • React Router |
-| 🧳 **TripIntel** | Full‑stack trip planner: Leaflet maps, fuzzy city search, flights/hotels/transport, SQLite backend | Express • React • SQLite • Leaflet • Fuse.js |
-| 🔗 **AeroLink** | Self‑hosted URL shortener with click tracking, custom aliases, and an atomic‑write SQLite‑style JSON DB | Express • Node.js • Vanilla JS • File‑based DB |
+I build things that work. Mobile apps, web apps, backends — I care more about shipping clean software than collecting certificates.
 
-## GitHub stats (because numbers are fun)
+- 🔭 **Now:** Flutter apps, React dashboards, and tinkering with CachyOS + Hyprland
+- 🌱 **Learning:** Advanced Flutter architecture, system design, clean code
+- 💬 **Ask me about:** Flutter, React, TypeScript, Node.js, SQLite, Firebase, Linux
+- ⚡ **Motto:** `git commit -m "ship it"` — perfection is the enemy of done
 
-![ShriVansh919's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShriVansh919&show_icons=true&hide_border=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShriVansh919&layout=compact&hide_border=true&theme=radical)
+---
 
-## A few things I believe in
+### 🛠️ Tech
 
-- **Offline first** – if your app needs Wi‑Fi to show a list of items, you’re doing it wrong.
-- **Tests > prayers** – writing a test takes 5 minutes; debugging at 3 a.m. takes 5 hours.
-- **README first** – if I can’t explain it in a README, I haven’t built it yet.
-- **Ship it** – perfect is the enemy of “done enough to show someone.”
+<div align="center">
 
-## Let’s talk
+| | |
+|---|---|
+| **Mobile** | Flutter · Dart · Provider · SharedPreferences |
+| **Frontend** | React · TypeScript · Vite · Tailwind CSS · Bootstrap |
+| **Backend** | Node.js · Express · SQLite · Firebase |
+| **Dev** | Git · GitHub · ESLint · Playwright · Vitest |
+| **OS** | CachyOS · Hyprland · Arch-based |
 
-- **GitHub**: [@ShriVansh919](https://github.com/ShriVansh919)
-- **Email**: [vanshyadav919@gmail.com](mailto:vanshyadav919@gmail.com)
+</div>
 
-> “I like my code like I like my coffee: strong, simple, and not full of bugs.”  
-> — Probably me, after my third cup
+</div>
+
+---
+
+### 🚀 Projects
+
+<div align="center">
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| 🌾 **Farmer-Marketplace** | Flutter · Provider | Offline-first marketplace with cart, orders, and APK build |
+| 🌤️ **SkyCast** | React · TS · Tailwind · Playwright | Weather dashboard with glassmorphism UI and tests |
+| 💼 **JobPortal** | React · Vite · Firebase · Bootstrap | Job board with favorites and responsive UI |
+| 🧳 **TripIntel** | Express · React · SQLite · Leaflet | Full-stack trip planner with fuzzy search and maps |
+| 🔗 **AeroLink** | Express · Node.js | URL shortener with analytics dashboard |
+
+</div>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ShriVansh919&show_icons=true&hide_border=true&theme=green_night&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShriVansh919&layout=compact&hide_border=true&theme=green_night)
+
+</div>
+
+---
+
+### 💡 Principles
+
+- **Offline first** — your app shouldn't need Wi-Fi to show a list
+- **Tests > prayers** — debugging at 3 a.m. is not a personality trait
+- **README first** — if I can't explain it simply, I haven't built it well
+- **Ship it** — done beats perfect every time
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShriVansh919)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshyadav919@gmail.com)
+
+<br/>
+
+<i>Terminal first, mouse second.</i>
+
+</div>
