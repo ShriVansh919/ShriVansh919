@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="40" viewBox="0 0 520 40">
+  <rect width="520" height="40" fill="#0d1117" rx="8"/>
+
+  <text x="16" y="27" font-family="'Fira Code', monospace" font-size="16" fill="#58a6ff">$ </text>
+
+  <!-- three rotating taglines, one visible at a time -->
+  <g>
+    <text x="38" y="27" font-family="'Fira Code', monospace" font-size="16" fill="#c9d1d9">
+      building in public
+      <animate attributeName="opacity" values="1;1;0;0;0;0;0;0" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="38" y="27" font-family="'Fira Code', monospace" font-size="16" fill="#c9d1d9">
+      sharpening DSA, one problem at a time
+      <animate attributeName="opacity" values="0;0;0;1;1;0;0;0" dur="9s" repeatCount="indefinite"/>
+    </text>
+    <text x="38" y="27" font-family="'Fira Code', monospace" font-size="16" fill="#c9d1d9">
+      shipping 24-week sprint to an SDE internship
+      <animate attributeName="opacity" values="0;0;0;0;0;1;1;0" dur="9s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- blinking cursor -->
+  <rect x="16" y="6" width="8" height="26" fill="#58a6ff" opacity="0" rx="2">
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
