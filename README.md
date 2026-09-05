@@ -1,95 +1,50 @@
-<div align="center">
-
 # Hi, I'm Shri Vansh 👋
 
-### Full-Stack Developer | Flutter | React | Node.js
+Full-stack developer who enjoys building apps that don’t crash when you use them.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&width=440&lines=Building+real+apps+with+real+stacks;Flutter+%7C+React+%7C+TypeScript+%7C+Node.js;Always+learning%2C+always+building" alt="Typing SVG" />
+## About me
+- 💻 I write Flutter apps that actually work offline (yes, really)
+- ⚛️ React + TypeScript fanboy who still respects plain JavaScript
+- 🛠️ Backend? I’ll spin up an Express server faster than you can say “dependency hell”
+- 🧪 I test things — not because I enjoy it, but because I hate 3 a.m. bug hunts
+- 📚 Currently learning: advanced Flutter architecture, system design, and how to stop over-engineering side projects
 
-</div>
+## Tech I use (and occasionally abuse)
 
----
+| Category | Tools |
+|----------|-------|
+| **Mobile** | Flutter • Dart • Provider • SharedPreferences |
+| **Web** | React • TypeScript • Vite • Tailwind CSS • Bootstrap |
+| **Server** | Node.js • Express • SQLite • Firebase |
+| **Quality** | GitHub Actions • Playwright • Vitest • ESLint |
+| **Data** | JSON • REST • Open-Meteo • Firebase Firestore |
 
-### 🧑‍💻 About Me
+## Projects I’m actually proud of
 
-I'm a developer who likes building things that actually work. I focus on **full-stack apps** — from Flutter mobile clients to React dashboards and Express backends. I care more about shipping clean, usable software than collecting certificates.
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| 🌾 **Farmer-Marketplace** | Offline-first marketplace for farmers and buyers — cart, orders, dark mode, bundled JSON + images | Flutter • Provider • SharedPreferences |
+| 🌤️ **SkyCast** | Fancy weather dashboard with glassmorphism, 7‑day forecast, and a test suite that passes | React • TypeScript • Tailwind • TanStack Query • Playwright |
+| 💼 **JobPortal** | Job board with favorites, Firebase persistence, and a responsive UI that doesn’t look like 2008 | React • Vite • Firebase • Bootstrap • React Router |
+| 🧳 **TripIntel** | Full‑stack trip planner: Leaflet maps, fuzzy city search, flights/hotels/transport, SQLite backend | Express • React • SQLite • Leaflet • Fuse.js |
+| 🔗 **AeroLink** | Self‑hosted URL shortener with click tracking, custom aliases, and an atomic‑write SQLite‑style JSON DB | Express • Node.js • Vanilla JS • File‑based DB |
 
-- 🔭 Currently working on: **Farmer-Marketplace** (Flutter + Firebase) and **SkyCast** (React + TypeScript)
-- 🌱 Learning: Advanced Flutter architecture, system design, and backend scaling
-- 💬 Ask me about: Flutter state management, React + Vite, Express APIs, SQLite, Firebase
-- ⚡ Fun fact: I prefer offline-first architecture and clean UIs over flashy frameworks
+## GitHub stats (because numbers are fun)
 
----
+![ShriVansh919's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShriVansh919&show_icons=true&hide_border=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShriVansh919&layout=compact&hide_border=true&theme=radical)
 
-### 🛠️ Tech Stack
+## A few things I believe in
 
-<div align="center">
+- **Offline first** – if your app needs Wi‑Fi to show a list of items, you’re doing it wrong.
+- **Tests > prayers** – writing a test takes 5 minutes; debugging at 3 a.m. takes 5 hours.
+- **README first** – if I can’t explain it in a README, I haven’t built it yet.
+- **Ship it** – perfect is the enemy of “done enough to show someone.”
 
-| Category | Technologies |
-|----------|-------------|
-| **Mobile** | Flutter · Dart · Provider · SharedPreferences |
-| **Frontend** | React 19 · TypeScript · Vite · Tailwind CSS · Bootstrap |
-| **Backend** | Node.js · Express · SQLite · Firebase Firestore |
-| **Tools** | Git · GitHub · ESLint · Playwright · Vitest |
-| **APIs** | Open-Meteo · Nominatim · Firebase |
+## Let’s talk
 
-</div>
+- **GitHub**: [@ShriVansh919](https://github.com/ShriVansh919)
+- **Email**: [vansh@shrivansh919.dev](mailto:vansh@shrivansh919.dev)
 
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| 🌾 **Farmer-Marketplace** | Offline-first agricultural marketplace with cart, orders, and dark mode | Flutter · Provider · SharedPreferences · JSON | [View](https://github.com/ShriVansh919/Farmer-Marketplace) |
-| 🌤️ **SkyCast** | Premium weather dashboard with glassmorphism UI, 7-day forecast, and tests | React · TypeScript · Tailwind · TanStack Query · Playwright | [View](https://github.com/ShriVansh919/Weather) |
-| 💼 **JobPortal** | Job listing app with favorites, Firebase persistence, and responsive design | React · Vite · Firebase · Bootstrap · React Router | [View](https://github.com/ShriVansh919/jobportal) |
-| 🧳 **TripIntel** | Full-stack trip planner with Leaflet maps, fuzzy city search, and SQLite | Express · React · SQLite · Leaflet · Fuse.js | [View](https://github.com/ShriVansh919/TRIP) |
-| 🔗 **AeroLink** | Self-hosted URL shortener with analytics dashboard and atomic writes | Express · Node.js · Vanilla JS · File-based DB | [View](https://github.com/ShriVansh919/url-shortener) |
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![ShriVansh919's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShriVansh919&show_icons=true&hide_border=true&theme=green_night&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShriVansh919&layout=compact&hide_border=true&theme=green_night)
-
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-
-- 🥇 **5 production-ready projects** across mobile, web, and full-stack
-- 📱 **Published Flutter APK** — Farmer-Marketplace available on GitHub Releases
-- 🧪 **Test coverage** — Playwright + Vitest in Weather project
-- 📦 **Clean architecture** — Provider, modular React, atomic DB writes
-- 🔥 **Real integrations** — Firebase, Open-Meteo, Nominatim, Leaflet
-
-</div>
-
----
-
-### 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShriVansh919)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vansh@shrivansh919.dev)
-
-</div>
-
-<div align="center">
-
-<i>“Code is like humor. When you have to explain it, it’s bad.”</i> – Cory House
-
-</div>
+> “I like my code like I like my coffee: strong, simple, and not full of bugs.”  
+> — Probably me, after my third cup
